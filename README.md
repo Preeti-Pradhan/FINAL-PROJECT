@@ -1,6 +1,6 @@
 # FINAL-PROJECT
 
-# To run this project upzip the Project Folder put it into xampp - >htdocs - >PROJECT
+# To run this project unzip the Project Folder put it into xampp - >htdocs - >PROJECT
 
 # Then unzip the folder itp and pro inside the project folder.
 
